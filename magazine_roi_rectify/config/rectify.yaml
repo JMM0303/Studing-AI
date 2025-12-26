@@ -1,0 +1,9 @@
+roi:
+  use: true
+  x0: 260
+  y0: 10
+  x1: 360
+  y1: 450
+
+rectify:
+  use: true
